@@ -58,7 +58,10 @@ I am an experienced software engineer with the desire to continue developing and
 
 ## Featured Projects
 
-- Project 1: Add your project name, a one-line description, and repository link.
+- [Stock Market Analysis](https://github.com/ugochukwu16henry/Stock-Market-Analysis-)  
+	Reproducible Python analytics pipeline for historical global stock indices (2000-2026), with data cleaning, feature engineering (returns, moving averages, volatility, RSI, MACD), comparative analysis, and visual reporting.
+	Key outputs include a quality report, engineered dataset, summary statistics, correlation matrix, and dashboards/charts (normalized performance, heatmap, MA, volatility, RSI/MACD).
+	Tech used: Python, Pandas, NumPy, Matplotlib, Seaborn, Pytest.
 - Project 2: Add your project name, a one-line description, and repository link.
 - Project 3: Add your project name, a one-line description, and repository link.
 
