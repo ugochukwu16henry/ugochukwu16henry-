@@ -53,8 +53,8 @@ I am an experienced software engineer with the desire to continue developing and
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugochukwu16henry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugochukwu16henry&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ugochukwu16henry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ugochukwu16henry&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800)
 
 > If these cards do not load immediately, refresh after a short wait. The stats service can be temporarily rate-limited or cached.
 
