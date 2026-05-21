@@ -66,7 +66,8 @@ I am an experienced software engineer with the desire to continue developing and
 	From Idea to Impact: a full-stack platform helping entrepreneurs turn ideas into websites, apps, and businesses.
 	Built with a modular architecture (frontend, backend, mobile) featuring role-based dashboards, project and task management, agreement workflows, and API-first delivery.
 	Tech used: Next.js 14, React, TypeScript, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, JWT, pnpm, Playwright.
-- Project 3: Add your project name, a one-line description, and repository link.
+- [View All Repositories](https://github.com/ugochukwu16henry?tab=repositories)  
+	Explore the complete portfolio of projects, experiments, and production-ready repositories.
 
 ## Let's Connect
 
