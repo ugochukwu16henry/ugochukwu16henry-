@@ -62,7 +62,10 @@ I am an experienced software engineer with the desire to continue developing and
 	Reproducible Python analytics pipeline for historical global stock indices (2000-2026), with data cleaning, feature engineering (returns, moving averages, volatility, RSI, MACD), comparative analysis, and visual reporting.
 	Key outputs include a quality report, engineered dataset, summary statistics, correlation matrix, and dashboards/charts (normalized performance, heatmap, MA, volatility, RSI/MACD).
 	Tech used: Python, Pandas, NumPy, Matplotlib, Seaborn, Pytest.
-- Project 2: Add your project name, a one-line description, and repository link.
+- [RiseFlow Hub](https://github.com/ugochukwu16henry/riseflowhub_v1.0)  
+	From Idea to Impact: a full-stack platform helping entrepreneurs turn ideas into websites, apps, and businesses.
+	Built with a modular architecture (frontend, backend, mobile) featuring role-based dashboards, project and task management, agreement workflows, and API-first delivery.
+	Tech used: Next.js 14, React, TypeScript, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, JWT, pnpm, Playwright.
 - Project 3: Add your project name, a one-line description, and repository link.
 
 ## Let's Connect
